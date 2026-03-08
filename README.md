@@ -1,6 +1,31 @@
 <h1 align="center"> Opinion Polarity Detection</h2>
 
-![imdb header](/assets/imdb_header.png)
+<!--![imdb header](/assets/imdb_header.png)-->
+
+
+
+![](/IMDb_id7sd00bOY_1.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h2 align="center">Workflow</h2>
 
