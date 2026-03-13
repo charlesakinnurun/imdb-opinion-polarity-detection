@@ -1,12 +1,14 @@
+
+
+
+
+<!-- ![header image](/assets/header_image.png)-->
+
+<!-- ![](/assets/imdb.png) -->
+
+
+
 <h1 align="center"> Opinion Polarity Detection</h2>
-
-
-
-![header image](/assets/header_image.png)
-
-
-
-
 
 
 <!--![imdb header](/assets/imdb_header.png)-->
